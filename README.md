@@ -41,20 +41,18 @@ Created SQL views and queries to analyze:
 
 ## Files Included
 - SQL scripts
-- Dataset
 - Dashboard screenshots
 - Final analysis report
 
-  ## Dashboard Preview
+## Dashboard Preview
 
 ### Sentiment & Stance Overview
-![Sentiment & Stance Overview](images/Sentiment & Stance Overview.png)
+![Sentiment Overview](images/sentiment-stance-overview.png)
 
 ### Topic & Aggressiveness Analysis
-![Topic & Aggressiveness Analysis](images/Topic & Aggressiveness Analysis.png)
+![Topic Analysis](images/topic-aggressiveness-analysis.png)
 
 ### Geographic & Gender Analysis
-![Geographic & Gender Analysis](images/Geographic & Gender Analysis.png)
-
+![Geographic Analysis](images/geographic-gender-analysis.png)
 ## Author
 Priscilla Sakyi
