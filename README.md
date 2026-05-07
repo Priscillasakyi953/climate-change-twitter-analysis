@@ -41,10 +41,20 @@ Created SQL views and queries to analyze:
 
 ## Files Included
 - SQL scripts
-- Power BI dashboard
 - Dataset
 - Dashboard screenshots
 - Final analysis report
+
+  ## Dashboard Preview
+
+### Sentiment & Stance Overview
+![Sentiment & Stance Overview](images/Sentiment & Stance Overview.png)
+
+### Topic & Aggressiveness Analysis
+![Topic & Aggressiveness Analysis](images/Topic & Aggressiveness Analysis.png)
+
+### Geographic & Gender Analysis
+![Geographic & Gender Analysis](images/Geographic & Gender Analysis.png)
 
 ## Author
 Priscilla Sakyi
